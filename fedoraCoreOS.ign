@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.3.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "itsbc-admin",
+        "sshAuthorizedKeys": [
+          "AAAAB3NzaC1yc2EAAAADAQABAAABgQDUhCy2saabOuJuMMh2lNOuQL58rcSveCm5etRoo7alEOtRIISpYRiWpWFdFGy10nY9fHIoMCCgTvmnA5URH6OmXMtXRrA47XIFiOOpd6JAZtdKVpLdXC7LlFLQ6RE4rOdbdiidLWrON3HhieKy3qavjuRPosMl843Epv3YhlMsMUI+MELIUQnfxKILRsGBxxIR0V0iHGRDe6n345w4zpvlnGWilH+MKkGS7vH2kJxgR8dfUDD4jCOVORihsfT/zafP/YHVTmFOv+rB20r+k6ymycBDNKMqqf1e17zvGnz+nlQ0W4W2xbxWe6jaJkqP1QElvS5nRlPTJIg0iYygy48oWnKlVg23t85d64Wb1kxAI5dfscpnkDtWQR0OX3L2X26U9Pmehou48Qz9iI9N9hGBRgETkXudl8+NSGUSmp/3gX5AKlOjihZ7wYthRmKgZwnPXsQvxpRufP96vWVtl/rIWaQYgC+hqqZTnGQpPci3Yau+fFMpoeE0xho1Ghlla78= marcos.rego@NBTITMA149251"
+        ]
+      }
+    ]
+  }
+}
